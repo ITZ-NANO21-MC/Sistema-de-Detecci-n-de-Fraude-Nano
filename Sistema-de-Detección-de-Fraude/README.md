@@ -27,7 +27,6 @@ graph LR
 
 - 🚀 Procesamiento en tiempo real con Kafka
 - 🤖 Modelo de detección de fraude con TensorFlow
-- 📊 Panel de monitoreo integrado
 - 🔄 Pipeline de datos completamente automatizado
 - 🔒 Persistencia de mensajes para recuperación ante fallos
 - 📈 Escalabilidad horizontal mediante consumidores paralelos
@@ -43,8 +42,8 @@ graph LR
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/fraud-detection-system.git
-   cd fraud-detection-system
+   git clone https://github.com/ITZ-NANO21-MC/Sistema-de-Detecci-n-de-Fraude-Nano
+   cd Sistema-de-Detección-de-Fraude
    ```
 
 2. **Crear entorno virtual:**
@@ -136,8 +135,7 @@ fraud-detection-system/
 ├── train_model.py          # Script de entrenamiento
 ├── requirements.txt        # Dependencias
 ├── README.md               # Documentación
-└── static/                 # Recursos estáticos
-    └── styles.css          # Estilos CSS
+
 ```
 
 ## Mejoras Futuras para Producción
