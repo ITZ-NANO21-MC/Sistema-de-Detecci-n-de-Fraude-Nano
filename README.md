@@ -42,7 +42,7 @@ graph LR
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/ITZ-NANO21-MC/Sistema-de-Detecci-n-de-Fraude-Nano
+   git clone https://github.com/ITZ-NANO21-MC/Sistema-de-Detecci-n-de-Fraude-Nano.git
    cd Sistema-de-Detección-de-Fraude
    ```
 
